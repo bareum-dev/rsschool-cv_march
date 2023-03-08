@@ -3,7 +3,7 @@
 # Vera Karmanovich
 #### Junior front-end developer
 <hr>
-### CONTACTS
+#### CONTACTS
 * Location: Pinsk, Belarus <br>
 * Phone: +375-29-59-64-187 <br>
 * Telegram: @Ba_Reum <br>
@@ -11,12 +11,12 @@
 * GitHub: <code>[bareum-dev](https://github.com/bareum-dev)</code> <br>
 <hr>
 
-### PROFILE
+#### PROFILE
 I'm beginner Front-End developer.  
 I love to create beautiful things with my hands and I use JavaScript for this.
 
 
-### SKILLS
+#### SKILLS
 * HTML
 * CSS
 * JavaScript
@@ -25,3 +25,11 @@ I love to create beautiful things with my hands and I use JavaScript for this.
 * SASS/SCSS
 * BEM
 * Git, GitHub
+
+#### EDUCATION
+Moscow Institute of Enterpreneurship and Law (MIPP) - B.A. Economics  
+2007-2012
+
+#### LANGUAGES
+Russian - Native
+English - A2-B1
