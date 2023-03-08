@@ -7,7 +7,7 @@
 * Location: Pinsk, Belarus <br>
 * Phone: +375-29-59-64-187 <br>
 * Telegram: @Ba_Reum <br>
-* e-mail: bareum.dev@gmail.com <br>
+* e-mail: <a href="mailto:bareum.dev@gmail.com">bareum.dev@gmail.com</a><br>
 * GitHub: <a href="https://github.com/bareum-dev">bareum-dev</a><br>
 <hr>
 
