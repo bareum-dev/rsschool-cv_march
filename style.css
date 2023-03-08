@@ -8,7 +8,14 @@ body {
 }
 h1 {
   color: turquoise;
-  text-shadow: 0.05em 0.05em 0.1em black;
+  text-shadow: 0.05em 0.05em 0.2em black;
   text-align: center;
   margin-top: 2em;
+}
+p {
+  font-size: 1.6em;
+  color: turquoise;
+  text-align: center;
+  text-shadow: 0.08em 0.08em 0.2em black;
+  line-height: 200%;
 }
