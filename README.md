@@ -1,1 +1,1 @@
-https://bareum-dev.github.io/rsschool-cv/cv
+https://bareum-dev.github.io/rsschool-cv/
